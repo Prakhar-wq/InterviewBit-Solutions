@@ -3,6 +3,8 @@ An Attempt to provide all the InterviewBit Solutions of Coding/Puzzles etc at on
 
 Structure of Repository is as follows:
 Track(Programming/Puzzles)
-  - Topics
-    -Questions
+  -Topics
+    - Question_name:Solution
+    
+    
     
