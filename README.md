@@ -6,5 +6,5 @@ An Attempt to provide all the InterviewBit Solutions of Coding/Puzzles etc at on
 Repository is structured as follows:
 
 - Track(Programming/Puzzles)
-    + Topic Name
-            + Implementation - Source Code
+    + Topic Name 
+        + Implementation - Source Code
