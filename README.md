@@ -7,4 +7,4 @@ Repository is structured as follows:
 
 - Track(Programming/Puzzles)
     + Topic Name
-            - Implementation - Source Code
+            + Implementation - Source Code
